@@ -1,0 +1,17 @@
+{
+  "name": "exceltojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "core-js": "^3.8.3",
+    "exceljs": "^4.2.0",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
